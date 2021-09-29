@@ -4,7 +4,7 @@ I'm currently a Computer Science graduate student at Cornell Tech. I graduated f
 
 ## Currently...
 
--   I'm working in a team of 5, with the guidance of advisors from [Datadog](https://www.datadoghq.com/), to solve sales-related problems in the B2B SaaS industry.
+-   I'm working in a team of 5, with the guidance of advisors from [Datadog](https://www.datadoghq.com/), to solve sales problems in the B2B SaaS industry.
 -   I'm having a blast in New York City!
 
 ## Previously...
