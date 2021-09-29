@@ -1,4 +1,4 @@
-### Hi there, I'm Adam! 👋
+# Hi there, I'm Adam! 👋
 
 I'm currently a Computer Science graduate student at Cornell Tech. I graduated from the National University of Singapore (NUS) for my undergrad, where I also did Computer Science. I like to build things that are aesthetic, useful, and impactful.
 
