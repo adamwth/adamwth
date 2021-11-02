@@ -1,10 +1,10 @@
 # Hi there, I'm Adam! 👋
 
-I'm currently a Computer Science graduate student at Cornell Tech. I graduated from the National University of Singapore (NUS) for my undergrad, where I also did Computer Science. I like to build things that are aesthetic, fun to use, and useful!
+I'm currently a Computer Science graduate student at Cornell Tech. I graduated from the National University of Singapore (NUS) for my undergrad, where I also did Computer Science. I like learning and building stuff related to distributed systems and collaborative editing.
 
 ## Currently...
 
--   I'm working in a team of 5 students, under the guidance of advisors from [Datadog](https://www.datadoghq.com/), to solve problems faced by sales teams in the B2B SaaS industry.
+-   I'm working in a team of 5 students, under the guidance of advisors from [Datadog](https://www.datadoghq.com/), to solve problems in the B2B SaaS industry.
 -   I'm having a blast in New York City!
 
 ## Previously...
@@ -15,9 +15,9 @@ I'm currently a Computer Science graduate student at Cornell Tech. I graduated f
 
 ## In my free time...
 
--   I design and develop web apps for fun ideas that I dream up.
--   I play the kalimba (Coldplay songs are my favorite).
--   I enjoy playing Genshin Impact! I'm also in love with the game's soundtrack, and even more so when it's a lofi mix.
+-   I design websites for fun in Figma (and sometimes develop them).
+-   I learn and practice playing all kinds of songs on the kalimba.
+-   I play Genshin Impact! I'm in love with the game's soundtrack.
 
 ## You can reach me at...
 
