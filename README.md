@@ -4,7 +4,7 @@ I'm a CS grad student at Cornell Tech, NYC. Before, I was at the National Univer
 
 ## Currently...
 
--   I'm working in a team of 6 students, under the mentorship of advisors from [Johnson and Johnson](https://www.jnj.com/).
+-   I'm building a product in a team of 6, under the mentorship of advisors from [Johnson and Johnson](https://www.jnj.com/).
 -   I'm taking graduate courses in Blockchains & Cryptocurrencies, Privacy, Data Science, and Product Management.
 -   I'm having fun in NYC :)
 
