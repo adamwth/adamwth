@@ -5,8 +5,8 @@ I'm a CS grad student at Cornell Tech in NYC. Before, I was at the National Univ
 ## Currently...
 
 -   I'm building a product in a team of 6, under the mentorship of advisors from [Johnson and Johnson](https://www.jnj.com/).
--   I'm taking graduate courses in Blockchains & Cryptocurrencies, Privacy, Data Science, and Product Management.
--   I'm having fun in NYC :)
+-   I'm exploring the work in adjacent fields, such as blockchains, privacy, data science, and product management.
+-   I'm working on my next personal project.
 
 ## Previously...
 
@@ -18,7 +18,7 @@ I'm a CS grad student at Cornell Tech in NYC. Before, I was at the National Univ
 
 -   I design websites for fun in Figma (and sometimes develop them).
 -   I learn new songs to play on the kalimba.
--   I play Genshin Impact. I'm in love with the game's soundtrack.
+-   I cook japanese dishes for my friends and myself!
 
 ## You can reach me at...
 
