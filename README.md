@@ -1,6 +1,6 @@
 # Hi there, I'm Adam! 👋
 
-I'm a CS grad student at Cornell Tech, NYC. Before, I was at the National University of Singapore (NUS) for my undergrad. I like doing full-stack development and learning about blockchains, distributed systems, and collaborative editing.
+I'm a CS grad student at Cornell Tech in NYC. Before, I was at the National University of Singapore (NUS) for my undergrad. I like doing full-stack development and learning about blockchains, distributed systems, and collaborative editing.
 
 ## Currently...
 
