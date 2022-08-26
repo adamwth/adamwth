@@ -6,7 +6,6 @@ I'm a Software Engineer at Meta. My interests lie in the intersection of full-st
 
 -   I spent a year in NYC as a grad student doing CS.
 -   I interned as a software engineer in Singapore at [Sea](https://www.sea.com/), [Traverse (YC S19)](https://www.traverse.ai/), and [CSIT](https://www.csit.gov.sg/), where I did front-end and full-stack web development.
--   I developed, together with [three](https://github.com/lyskevin/) [amazing](https://github.com/chrisgzf) [people](https://github.com/eksinyue), a mental wellness [application](https://www.artpreciate.sg/) that combined art and meditation to directly benefit the hospital staff and patients in Singapore during the pandemic, working in collaboration with the Singapore Art Museum, National Gallery of Singapore, and SingHealth.
 
 ## You can reach me at...
 
