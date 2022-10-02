@@ -1,10 +1,11 @@
 # Hi there, I'm Adam! 👋
 
-I'm a Software Engineer at Meta. My interests lie in the intersection of full-stack web development, distributed systems & microservices, UX, and AR/VR. I'm a product-first engineer, which means I enjoy solving hard problems the closer they are to the user, and am always on the lookout for new technical opportunities to improve the product.
+I'm a Software Engineer at Meta. My interests lie in the intersection of full-stack development, collaborative editing systems, and distributed systems & microservices. I'm a product-first engineer, meaning I enjoy solving hard problems the closer they are to the user, and am always on the lookout for new technical opportunities to improve the product.
 
 ## Previously...
 
--   I spent a year in NYC as a grad student doing CS.
+-   I did my Master's in CS at Cornell Tech in NYC.
+-   I did my Bachelor's in CS at the National University of Singapore. 
 -   I interned as a software engineer in Singapore at [Sea](https://www.sea.com/), [Traverse (YC S19)](https://www.traverse.ai/), and [CSIT](https://www.csit.gov.sg/), where I did front-end and full-stack web development.
 
 ## You can reach me at...
